@@ -1,7 +1,7 @@
 {
-  "username": "riefcoolzz",
+  "username": "hafizdzakimcd12",
   "album": [
-    "Naruto", "One Piece", "Dragon Ball", "Fairy Tail", "Attack On Titan", "Black Clover", "Death Note"
+    "Anime",
   ],
   "init_jumlah_photo": 50,
   "pub_id": "",
@@ -16,9 +16,9 @@
   "admob_hpk_4": "",
   "admob_hpk_5": "",
   
-  "startapp_app_id": "21077",
+  "startapp_app_id": "1234567",
 
-  "unity_id": "4211073",
+  "unity_id": "1234567",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
